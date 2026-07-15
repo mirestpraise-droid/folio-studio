@@ -42,7 +42,7 @@ letter-spacing:-1px;
 
 
 .logo span{
-color:#7da06f;
+color:#1D4ED8;
 }
 
 
@@ -62,7 +62,7 @@ transition:.3s;
 
 
 .nav-links a:hover{
-color:#7da06f;
+color:#1D4ED8;
 }
 
 
@@ -80,7 +80,7 @@ transition:.3s;
 .nav-btn:hover{
 
 transform:scale(1.05);
-background:#7da06f;
+background:#1D4ED8;
 
 }
 
@@ -109,7 +109,7 @@ animation:fadeUp 1s ease;
 
 .tag{
 
-color:#7da06f;
+color:#1D4ED8;
 font-weight:700;
 letter-spacing:2px;
 
@@ -127,7 +127,7 @@ margin:20px 0;
 background:linear-gradient(
 90deg,
 #111,
-#7da06f
+#1D4ED8
 );
 
 -webkit-background-clip:text;
@@ -256,7 +256,7 @@ height:100%;
 width:75%;
 background:linear-gradient(
 90deg,
-#7da06f,
+#1D4ED8,
 #b9d8a9
 );
 
@@ -448,7 +448,7 @@ padding:20px 35px;
 
 border-radius:40px;
 
-background:#7da06f;
+background:#1D4ED8;
 
 color:white;
 
